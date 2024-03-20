@@ -2,7 +2,7 @@
 /*
 
 # Except for these
-!/GnomesWell/.gitignore
-!/GnomesWell/Assets
-!/GnomesWell/Packages
-!/GnomesWell/ProjectSettings
+!/.gitignore
+!/Assets
+!/Packages
+!/ProjectSettings
