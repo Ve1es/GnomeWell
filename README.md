@@ -6,6 +6,9 @@ HiperCasual game with  accelerometer
 ## Description
 "Gnome Well" is an exciting arcade game where your goal is to control a gnome, guiding it down a well to collect treasures while avoiding traps on the walls. The gameplay is dynamic and captivating, featuring accelerometer-based controls and various elements of physics and animation.
 
+## Gameplay Video
+https://youtu.be/8mHSwL-Jt1o
+
 ## Features:
 1. **Gnome Body Animation with Physics Interaction**: The gnome responds to physical interactions and moves naturally thanks to body animation.
 2. **Scene Object Animation**: Objects in the game are animated, making the surrounding world more realistic.
